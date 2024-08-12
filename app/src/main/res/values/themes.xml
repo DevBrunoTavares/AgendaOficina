@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AgendaOficina" parent="Theme.Material3.DayNight.NoActionBar">
+
+         <item name="colorPrimary">@color/um</item>
+    </style>
+
+    <style name="Theme.AgendaOficina" parent="Base.Theme.AgendaOficina" />
+</resources>
